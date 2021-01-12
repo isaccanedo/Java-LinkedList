@@ -1,10 +1,15 @@
 import java.util.LinkedList;
 
 public class Main {
+	
+	/* +---------------------------------------------
+	 * | @author Isac Canedo
+	 * +---------------------------------------------
+	 */
 
 	/*
 	 * What will this program print out to the console when executed? (O que este
-	 * programa imprimir· no console quando executado?)
+	 * programa imprimir√° no console quando executado?)
 	 * 
 	 * 1 - [10, 1, 5]
 	 * 2 - [1, 5, 10]
